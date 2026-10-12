@@ -1,6 +1,11 @@
-# otaformusicapp
-#Welcome to use my first App!
-<span id="ref1">#Step to new Platform</span id="ref1">
-Based on Flutter Language.Support Mix Api and Lyrics.
-New Feature:Liquid Glass and ArcX vivid Engine,boost your listen.
-Supportted Platform:Windows x64,Android,HarmonyOS(Pre-Ready).
+# OTA for Music App
+
+Welcome to use my first app!
+
+## Step to a New Platform
+
+Built with Flutter. Supports Mix API and lyrics.
+
+**New features:** Liquid Glass and ArcX Vivid Engine — boost your listening experience.
+
+**Supported platforms:** Windows x64, Android, HarmonyOS (pre-ready).
